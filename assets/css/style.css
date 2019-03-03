@@ -125,11 +125,11 @@ h3, h2 {
 }
 
 .main-section {
-  float: left;
+  /* float: left; */
   /* width: 100%; */
   max-width: 960px;
   padding: 30px;
-  margin: 0 0 40px;
+  margin: 0 auto;
   background: #ffffff;
   border: 1px solid #dddddd;
 }
